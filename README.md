@@ -8,7 +8,7 @@ I'm deeply interested in design, technology, and creative development. I enjoy t
 
 A lot of the things and repositories I've built were possible thanks to the collaboration with peers. I enjoy grasping the idea, figuring out what it could become, and working with other people to turn it into something real.
 
----<hr style="height: 5px; background-color: #333; border: none;">
+---
 
 **Fun Facts:**
 
