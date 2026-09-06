@@ -2,15 +2,15 @@
 
 I'm Álvaro, a designer and developer based in Montréal.
 
-I like turning ideas into things people can actually see, use, and experience. Whether it's a website, an interface, a product concept, or a creative project, if an idea gets stuck in my head, I usually want to figure out how to bring it to life.
+I like turning ideas into things people can actually not only use or see, but experience. Whether it's a website, an interface, a product concept, or a creative project.
 
-I'm deeply interested in design, technology, and creative development. I enjoy thinking about how things look, how they feel, and—most importantly—why they work the way they do.
+I'm deeply interested in design, technology, and creative development. I enjoy thinking about how things look, how they feel, and most importantly, why they work the way they do.
 
-A lot of the things and repositories I've built have come through collaboration with peers. I enjoy taking an idea, figuring out what it could become, and working with other people to turn it into something real.
+A lot of the things and repositories I've built were possible thanks to the collaboration with peers. I enjoy grasping the idea, figuring out what it could become, and working with other people to turn it into something real.
 
 **Fun Facts:**
 
-- I'm on my way to mastering French and working toward a C1 level. I'm still at an intermediate level, but I'm enjoying the process.
+- I'm on my way to mastering French and achieving a C1 level.
 - I love tennis.
 - I don't enjoy coffee.
 - I play piano since I was 8 years old.
