@@ -7,7 +7,9 @@ I like turning ideas into things people can actually not only use or see, but ex
 I'm deeply interested in design, technology, and creative development. I enjoy thinking about how things look, how they feel, and most importantly, why they work the way they do.
 
 A lot of the things and repositories I've built were possible thanks to the collaboration with peers. I enjoy grasping the idea, figuring out what it could become, and working with other people to turn it into something real.
----
+
+---<hr style="height: 5px; background-color: #333; border: none;">
+
 **Fun Facts:**
 
 - I'm on my way to mastering French and achieving a C1 level.
