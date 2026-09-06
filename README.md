@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there! 🫡
 
+# I'm Álvaro, a design 
 <!--
 **alvarols27/alvarols27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
