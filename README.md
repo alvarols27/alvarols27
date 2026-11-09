@@ -8,6 +8,8 @@ I'm deeply interested in design, technology, and creative development. I enjoy t
 
 A lot of the things and repositories I've built were possible thanks to the collaboration with peers. I enjoy grasping the idea, figuring out what it could become, and working with other people to turn it into something real.
 
+**Currently working with: TypeScript, Python, and PostgreSQL**
+
 ---
 
 **Fun Facts:**
